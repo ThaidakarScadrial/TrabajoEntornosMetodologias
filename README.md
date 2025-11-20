@@ -1,6 +1,6 @@
 # Trabajo Entornos: Metodologias
 Equipo:
-  -Teo Álvarez\n
+  -Teo Álvarez
   -Drazen Lalinde
-  -Victor Santolalla
+  -Victor Santolaya
   -Javier Itxaso
